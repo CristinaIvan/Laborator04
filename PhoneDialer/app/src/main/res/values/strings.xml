@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone Dialer</string>
+    <string name="phone_error">Phone number is empty!</string>
+</resources>
